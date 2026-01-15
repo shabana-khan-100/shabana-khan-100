@@ -57,9 +57,9 @@ Senior Software Engineer – Specialist with 3 years of experience building and 
 ---
 
 ## 📫 How to reach me
-- Email: **shabanakhan.190524@gmail.com**
+
 - LinkedIn: [linkedin.com/in/shabana-khan-671828200](https://www.linkedin.com/in/shabana-khan-671828200/)
-- Portfolio: **<your-portfolio-url>**
+- Portfolio: ** https://khanshabanaportfolio.netlify.app/ **
 
 ---
 
