@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Hi, I’m Shabana Khan   
 
-Senior Software Engineer – Specialist with more than 3 years of experience building and scaling production-grade full-stack applications.
+**Senior Software Engineer – Specialist** with more than 3 years of experience building and scaling production-grade full-stack applications.
 
 ---
 
