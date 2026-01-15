@@ -14,3 +14,64 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi there, I’m Shabana Khan 👋  
+
+Senior Software Engineer – Specialist with 3 years of experience building and scaling production-grade full-stack applications.
+
+---
+
+## 🔭 I’m currently working on
+- Designing and scaling **full-stack platforms** using React, Node.js, Python, and AWS  
+- Improving **system performance, reliability, and security** in production environments  
+- Building **AI-integrated applications** with a strong focus on engineering fundamentals  
+
+---
+
+## 🌱 I’m currently learning
+- Advanced **System Design** and **Distributed Systems**
+- **Scalable backend architectures** and performance optimization
+- Cloud-native patterns and **AWS best practices**
+
+---
+
+## 👯 I’m looking to collaborate on
+- Full-stack applications (React, Node.js, Python)
+- Backend systems, APIs, and cloud-based solutions
+- Open-source projects focused on **scalability, performance, or developer tooling**
+
+---
+
+## 🤔 I’m looking for help with
+- Designing highly scalable distributed systems
+- Improving observability, monitoring, and fault tolerance in large systems
+
+---
+
+## 💬 Ask me about
+- Full-stack development (React, Node.js, Python)
+- System design and API architecture
+- Cloud deployments (AWS), CI/CD, and production debugging
+- Performance optimization and secure coding practices
+
+---
+
+## 📫 How to reach me
+- Email: **shabanakhan.190524@gmail.com**
+- LinkedIn: [linkedin.com/in/shabana-khan-671828200](https://www.linkedin.com/in/shabana-khan-671828200/)
+- Portfolio: **<your-portfolio-url>**
+
+---
+
+## 😄 Pronouns
+She / Her
+
+---
+
+## ⚡ Fun fact
+I’ve solved **600+ LeetCode problems** and enjoy breaking down complex systems into simple, scalable solutions.
+
+---
+
+⭐️ *Always curious about building reliable systems and learning something new every day.*
+
