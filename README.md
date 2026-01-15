@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **shabana-khan-100/shabana-khan-100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there, I’m Shabana Khan 👋  
+# Hi, I’m Shabana Khan   
 
 Senior Software Engineer – Specialist with 3 years of experience building and scaling production-grade full-stack applications.
 
