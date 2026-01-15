@@ -22,7 +22,7 @@ Senior Software Engineer – Specialist with more than 3 years of experience bui
 ---
 
 ## 🔭 I’m currently working on
-- Designing and scaling **full-stack platforms** using React, Node.js, Python, and AWS  
+- Designing and scaling **full-stack platforms** using React, Next.js, Node.js, Python, and AWS Services
 - Improving **system performance, reliability, and security** in production environments  
 - Building **AI-integrated applications** with a strong focus on engineering fundamentals  
 
