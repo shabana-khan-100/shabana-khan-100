@@ -59,7 +59,7 @@ Senior Software Engineer – Specialist with 3 years of experience building and 
 ## 📫 How to reach me
 
 - LinkedIn: [linkedin.com/in/shabana-khan-671828200](https://www.linkedin.com/in/shabana-khan-671828200/)
-- Portfolio: ** https://khanshabanaportfolio.netlify.app/ **
+- Portfolio:  **https://khanshabanaportfolio.netlify.app/**
 
 ---
 
@@ -69,7 +69,7 @@ She / Her
 ---
 
 ## ⚡ Fun fact
-I’ve solved **600+ LeetCode problems** and enjoy breaking down complex systems into simple, scalable solutions.
+I’ve solved **650+ LeetCode problems** and enjoy breaking down complex systems into simple, scalable solutions.
 
 ---
 
